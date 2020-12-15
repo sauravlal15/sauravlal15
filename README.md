@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sauravlal9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sauravlal9" height="30" width="40" /></a>
+<a href="https://twitter.com/sauravlal9" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" alt="sauravlal9" height="35" width="40" /></a>
 <a href="https://linkedin.com/in/saurav-lal-621113174" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png" alt="saurav-lal-621113174" height=40 width="40" /></a>
 <a href="https://www.codechef.com/users/saurav_2233" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saurav_2233" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/infinity1_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="infinity1_1" height="30" width="40" /></a>
