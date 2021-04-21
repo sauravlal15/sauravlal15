@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [face-detector](https://github.com/saurav-skl/face-detector-frontend)
 
-- 🌱 I’m currently learning **MERN stack.**
+- 🌱 I’m currently focused on dsa learning and Reactjs development.
 - My website : <a href="https://sauravlal.me" target="blank">sauravlal.me</a>
 
 <h3 align="left">Connect with me:</h3>
