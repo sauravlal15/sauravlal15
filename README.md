@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sauravlal9" target="blank"><img src="https://img.shields.io/twitter/follow/sauravlal9?logo=twitter&style=for-the-badge" alt="sauravlal9" /></a> </p>
 
-- 🔭 I’m currently working on [face-detector](https://github.com/saurav-skl/face-detector-frontend)
+- 🔭 I’m currently working on [food-ordering](https://github.com/saurav-skl/receipeatdoor)
 
-- 🌱 I’m currently focused on dsa learning and Reactjs development.
+- 🌱 I’m currently focused on improving my problem solving skills and learning Reactjs and Node.js.
 - My website : <a href="https://sauravlal.me" target="blank">sauravlal.me</a>
 
 <h3 align="left">Connect with me:</h3>
