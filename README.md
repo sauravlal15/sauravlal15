@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [food-ordering](https://github.com/saurav-skl/receipeatdoor)
 
 - 🌱 I’m currently focused on improving my problem solving skills and learning Reactjs and Node.js.
-- My website : <a href="https://sauravlal.me" target="blank">sauravlal.me</a>
+- My website : <a href="https://sauravlal2233.netlify.app" target="blank">My Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
