@@ -1,29 +1,34 @@
-<h1 align="center">Hi 👋, I'm Saurav Kumar Lal</h1>
-<h3 align="center">A passionate frontend developer as well Competitive Programmer from India.</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=saurav-skl&label=Profile%20views&color=0e75b6&style=flat" alt="saurav-skl" /> </p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Saurav+Lal....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav-skl&label=Profile%20views&color=0e75b6&style=flat" alt="saurav-skl" /> </p>
+## 💬 Ask me about
+- Backend web development
+- Frontend web development (React)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurav-skl" alt="saurav-skl" /></a> </p>
+## 📅 Hobbies
+- Solve programming problems at Codeforces, LeetCode, Codechef
+- Watch anime and Tv shows
+- Play games
+- etc.
 
-<p align="left"> <a href="https://twitter.com/sauravlal9" target="blank"><img src="https://img.shields.io/twitter/follow/sauravlal9?logo=twitter&style=for-the-badge" alt="sauravlal9" /></a> </p>
+## 💻 Current project
+- [Showcase Talents](https://github.com/saurav-skl/devfolioXconn)
+- [food-ordering](https://github.com/saurav-skl/receipeatdoor)
 
-- 🔭 I’m currently working on [food-ordering](https://github.com/saurav-skl/receipeatdoor)
 
-- 🌱 I’m currently focused on improving my problem solving skills and learning Reactjs and Node.js.
-- My website : <a href="https://sauravlal2233.netlify.app" target="blank">My Portfolio</a>
+[![Linkedin Badge](https://img.shields.io/badge/-sauravlal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurav-lal-621113174/)](https://www.linkedin.com/in/saurav-lal-621113174/) [![Gmail Badge](https://img.shields.io/badge/-sauravkumarlal7060@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sauravkumarlal7060@gmail.com)](mailto:sauravkumarlal7060@gmail.com) [![website](https://img.shields.io/badge/SauravLal-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://sauravlal2233.netlify.app/)](https://sauravlal2233.netlify.app/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sauravlal9" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" alt="sauravlal9" height="35" width="40" /></a>
-<a href="https://linkedin.com/in/saurav-lal-621113174" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png" alt="saurav-lal-621113174" height=40 width="40" /></a>
-<a href="https://www.codechef.com/users/saurav_2233" target="blank"><img align="center" src="https://api.iconify.design/simple-icons:codechef.svg?color=%2379553A" alt="saurav_2233" height="40" width="40" /></a>
-<a href="https://codeforces.com/profile/infinity1_1" target="blank"><img align="center" src="https://image.winudf.com/v2/image/Y29tLlNvZnRUZWNocy5Db2RlRm9yY2VzX2ljb25fMF9jOTA3NjNhMA/icon.png?w=340&fakeurl=1" alt="infinity1_1" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/sauravlal_2233" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="sauravlal_2233" height="40" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sauravlal_2233" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="sauravlal_2233" height="40" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurav-skl&show_icons=true&locale=en&layout=compact" alt="saurav-skl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav-skl&show_icons=true&locale=en" alt="saurav-skl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav-skl&" alt="saurav-skl" /></p>
+### 🔨 Languages and Tools:
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="42px"/>
+<img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg">
+<img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" align="left" alt="git" height='42px'/>
+<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height ="42px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Vscode" height ="42px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height ="42px"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Mongodb" height ="42px"/>
