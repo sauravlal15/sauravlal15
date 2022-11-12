@@ -5,19 +5,9 @@
   </a>
 </h1>
 
-## 💬 Ask me about
-- Backend web development
-- Frontend web development (React)
+## Badges
+[![@sauravlal15's Holopin board](https://holopin.me/sauravlal15)](https://holopin.io/@sauravlal15)
 
-## 📅 Hobbies
-- Solve programming problems at Codeforces, LeetCode, Codechef
-- Watch anime and Tv shows
-- Play games
-- etc.
-
-## 💻 Current project
-- [Showcase Talents](https://github.com/saurav-skl/devfolioXconn)
-- [food-ordering](https://github.com/saurav-skl/receipeatdoor)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-sauravlal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurav-lal-621113174/)](https://www.linkedin.com/in/saurav-lal-621113174/) [![Gmail Badge](https://img.shields.io/badge/-sauravkumarlal7060@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sauravkumarlal7060@gmail.com)](mailto:sauravkumarlal7060@gmail.com) [![website](https://img.shields.io/badge/SauravLal-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://sauravlal2233.netlify.app/)](https://sauravlal2233.netlify.app/)
