@@ -10,7 +10,7 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-sauravlal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurav-lal-621113174/)](https://www.linkedin.com/in/saurav-lal-621113174/) [![Gmail Badge](https://img.shields.io/badge/-sauravkumarlal7060@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sauravkumarlal7060@gmail.com)](mailto:sauravkumarlal7060@gmail.com) [![website](https://img.shields.io/badge/SauravLal-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://sauravlal2233.netlify.app/)](https://sauravlal2233.netlify.app/)
+[![Linkedin Badge](https://img.shields.io/badge/-sauravlal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurav-lal-621113174/)](https://www.linkedin.com/in/saurav-lal-621113174/) [![Gmail Badge](https://img.shields.io/badge/-sauravkumarlal7060@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sauravlal.dev@gmail.com)](mailto:sauravlal.dev@gmail.com) [![website](https://img.shields.io/badge/SauravLal-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://sauravlal2233.netlify.app/)](https://sauravlal2233.netlify.app/)
 
 ### 🔨 Languages and Tools:
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="42px"/>
